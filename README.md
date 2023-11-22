@@ -7,3 +7,4 @@ The script for this programs is based on the codes provided by the in-class assi
 ChaGPT was also used in the assistance of debugging and refactoring the script.
 
 The following challenge uses Jupyter notebook to set up the database in part 1 and update the database in part 2.  Then an Exploratory Analysis in part 3.
+

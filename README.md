@@ -8,3 +8,5 @@ ChaGPT was also used in the assistance of debugging and refactoring the script.
 
 The following challenge uses Jupyter notebook to set up the database in part 1 and update the database in part 2.  Then an Exploratory Analysis in part 3.
 
+In the "NoSQL" folder it contains the jupyter notebook setup and analysis for the database.  In the "Resources" folder it contains the establishments JSON Source File for this research.
+
